@@ -1,0 +1,57 @@
+.purple-bg {
+  background-color: #c249c2;
+  color: #fff;
+}
+
+.blue-bg {
+  background-color: #6aa2ec;
+  color: #fff;
+}
+
+.teal-bg {
+  background-color: #10caab;
+  color: #fff;
+}
+
+.card {
+  border: none;
+  border-radius: 8px;
+  margin-bottom: 50px;
+}
+
+.card-body {
+  padding: 60px;
+}
+
+.card-body p {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px;
+}
+.purple-bg > .card-body {
+  padding: 125px;
+  font-size: 10rem;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.col {
+  padding: 5px;
+}
+
+.icon {
+  font-size: 24px;
+  margin-bottom: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.row p {
+  font-size: 1rem;
+  margin-bottom: 0;
+}
